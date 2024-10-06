@@ -1,34 +1,14 @@
-## Hi there 👋
-
-<!--
-**LikithaDevarasetti/LikithaDevarasetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm GRISHMA GEDELA
+# Hi, I'm Likitha Devarasetti
 
 ## About Me
 
-Hey there! I'm Grishma, a third-year Computer Science & Engineering student at Sir C.R.Reddy Engineering College with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm Likitha, a third-year Computer Science & Engineering student at Jayamukhi Institute of Technological Sciences with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ### Skills & Interests:
 
-- **Programming Languages**          : Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
+- **Programming Languages**          : Python,HTML, CSS, JavaScript
 - **Frameworks/Libraries**           : Bootstrap, Django, NumPy, Pandas, Tkinter
 - **Databases**                      : MySQL, SQLite
-- **Data Structures & Algorithms**   : Structuring Information for efficiency
-- **Developer Tools**                : Git/Github, Google Colab, VS Code, Anaconda
-- **Academic Coursework**            : Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
-- **Interests**                      : Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 
 ### Projects:
 - **Habibi Foods - Online Food Ordering System**: Enabling restaurants to manage menus with ease.
@@ -44,9 +24,9 @@ Features include secure login, menu customization and browsing, secure payments 
 
 ### Connect with Me:
 
-- Email: grishmagedela@gmail.com
-- LinkedIn: https://www.linkedin.com/in/grishma-gedela
-- GitHub: https://github.com/grishma-gedela
+- Email: likitha4624@gmail.com
+- LinkedIn: https://www.linkedin.com/in/likitha-devarasetti/
+- GitHub: https://github.com/LikithaDevarasetti
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!

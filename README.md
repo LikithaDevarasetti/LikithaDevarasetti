@@ -11,16 +11,16 @@ Hey there! I'm Likitha, a third-year Computer Science & Engineering student at J
 - **Databases**                      : MySQL, SQLite
 
 ### Projects:
-- **Habibi Foods - Online Food Ordering System**: Enabling restaurants to manage menus with ease.
-Features include secure login, menu customization and browsing, secure payments via Stripe, feedback, and contact options. Developed with HTML, CSS, Bootstrap, JavaScript (frontend), Python (Django), and SQLite (database), ensuring efficiency and user satisfaction. [Project Link](https://github.com/grishma-gedela/Online-Food-Ordering---Infosys.git)
+- **Tic-Tac-Toe**: Developed an interactive Tic-Tac-Toe game with an intuitive interface using HTML, CSS, and
+JavaScript. Implemented optimized game logic for player vs player, focusing on responsive design. [Project Link](https://github.com/LikithaDevarasetti/My_Projects)
 
-- **Tech News**: Get the latest tech news in one place! This site curates top stories directly, keeping tech enthusiasts updated without the need to search multiple websites.This site is built using HTML, CSS, and JavaScript for a seamless experience. [Project Link](https://github.com/grishma-gedela/Tech-News.git)
+- **Weather Report**: Engineered a dynamic, real-time weather update leveraging HTML, CSS, JavaScript, and API
+integration. Architected location-based weather forecasting with an intuitive, visually appealing interface, ensuring
+seamless cross-device performance and delivering precise, up-to-the-minute weather insights.[Project Link](https://github.com/LikithaDevarasetti/My_Projectst)
  
-- **Game Hub**: Where Text Becomes Play - A collection of six interactive games which includes General Knowledge Quiz, Tic Tac Toe, Hangman, Rock Paper Scissors, Guess the Number and Anagram Solver. It offers easy navigation, and clear instructions. Developed for fun and learning, it combines classic games in one place for easy access and enjoyment. [Project Link](https://github.com/GRISHMA-GEDELA/GameHub-Python)
-
-- **Password Generator** : This simple Python script aims to help users enhance their online security by generating strong and secure passwords. By combining letters, symbols, and numbers in a random and shuffled manner, this project provides users with passwords that are difficult to guess or crack. [Project Link](https://github.com/grishma-gedela/Password-Generator.git)
-
-- **Snake Game** : A classic Snake Game built with Pygame, featuring continuous snake movement, random food items, and edge wrapping. Players control the snake using arrow keys to eat food and grow longer. Developed using Python and Pygame for a fun and nostalgic gaming experience. [Project Link](https://github.com/grishma-gedela/Snake-Game.git)
+- **Stop Watch**:Crafted a sophisticated stopwatch featuring lap tracking, reset capabilities, and an elegant, intuitive
+interface using HTML, CSS, and JavaScript. Designed for precision and efficiency, ensuring flawless timekeeping and
+seamless user interaction across all platforms.[Project Link](https://github.com/LikithaDevarasetti/My_Projects)
 
 ### Connect with Me:
 
